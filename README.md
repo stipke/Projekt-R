@@ -1,4 +1,4 @@
-# Project R
+# Wearable Sensor System for Sleep Apnea Monitoring
 
 The system consists of three parts:
 
@@ -15,3 +15,18 @@ The system consists of three parts:
 3. **Optional: Wireless Transmission and Display of Information**  
    Transmission to a mobile phone (via Bluetooth) or a network server (via WiFi) occurs upon waking up, triggered by detection in part 2. This feature displays apnea intervals and statistics for the previous night.
 
+---
+
+
+## Development Tools and Materials
+
+We are using the **Cypress/Infineon PSoC 62S2 Wi-Fi BT Pioneer Kit (CY8CKIT-062S2-43012)** with the **IoT Sense Expansion Kit (CY8CKIT-028-SENSE)** for hardware development.
+
+- [PSoC 62S2 Wi-Fi BT Pioneer Kit](https://www.infineon.com/cms/en/product/evaluation-boards/cy8ckit-062s2-43012/)
+- [IoT Sense Expansion Kit](https://www.infineon.com/cms/en/product/evaluation-boards/cy8ckit-028-sense/)
+
+For software development, we are using **Eclipse IDE** along with **ModusToolbox™ Tools Package**
+
+---
+
+This project is carried out by students Nikola Marinović, Ivan Stipić and Iva Zubčić, under the mentorship of doc. dr. sc. Dinko Oletić. The project is scheduled to run from October 2024 to February 2025.
