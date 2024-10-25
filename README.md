@@ -12,7 +12,7 @@ The system consists of three parts:
 
    These detections are used to measure sleep intervals using the RTC. The detected moments of laying down/getting up are used to start/stop the measurement in part 1.
 
-3. **Optional: Wireless Transmission and Display of Information**  
+3. ** Wireless Transmission and Display of Information**  
    Transmission to a mobile phone (via Bluetooth) or a network server (via WiFi) occurs upon waking up, triggered by detection in part 2. This feature displays apnea intervals and statistics for the previous night.
 
 ---
