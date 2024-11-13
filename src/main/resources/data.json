@@ -1,0 +1,32 @@
+{
+  "sleepData": [
+    {
+      "timestamp": "2024-11-10 22:00:00",
+      "event": "Laying down"
+    },
+    {
+      "timestamp": "2024-11-10 23:30:00",
+      "event": "Apnea detected",
+      "duration": "00:05:30"
+    },
+    {
+      "timestamp": "2024-11-10 00:15:00",
+      "event": "Apnea detected",
+      "duration": "00:03:45"
+    },
+    {
+      "timestamp": "2024-11-10 03:20:00",
+      "event": "Apnea detected",
+      "duration": "00:02:00"
+    },
+    {
+      "timestamp": "2024-11-10 05:45:00",
+      "event": "Getting up"
+    },
+    {
+      "timestamp": "2024-11-10 06:00:00",
+      "event": "Woke up",
+      "duration": "End of sleep"
+    }
+  ]
+}
